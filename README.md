@@ -3,4 +3,4 @@
 
 This is repository
 
-This  DS are implemented using C
+These are BAsic Data Structure in C
