@@ -150,7 +150,7 @@ public class isLand{
 }
 /**
  * @author Ankit
- * Date 07/20/2020
+ * Date 08/20/2020
  *
  *
  *
@@ -159,10 +159,7 @@ public class isLand{
  * 1) makeSet
  * 2) union
  * 3) findSet
- *
- * For m operations and total n elements time complexity is O(m*f(n)) where f(n) is
- * very slowly growing function. For most cases f(n) <= 4 so effectively
- * total time will be O(m). Proof in Coreman book.
+ 
  */
 class DisjointSet {
 
